@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+nav{
+    height: 100px;
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+}
+
+.title{
+    font-size: 48pt;
+}
+
+.linkContainer{
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.link{
+    display: flex;
+    color: white;
+    text-decoration: none;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    justify-content: center;
+}
+
+.linkText{
+    margin-bottom: auto;
+    margin-top: auto;
+    text-align: center;
+}
+
+.carousel-caption {
+    background-color: black;
+    opacity: .6;
+
+}
+

@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.carousel{
+    max-width: 900px;
+    width: auto;
+    height: auto;
+}
+
+.carousel-caption{
+    background-color: black;
+}
+
+.slideshowContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

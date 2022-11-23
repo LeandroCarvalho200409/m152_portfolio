@@ -3,14 +3,18 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Video from './Video';
 import Bildergallerie from './Bildegallerie';
 import Home from "./Home";
+import './index.css'
 
 function App() {
-  return(
+  return (
     <BrowserRouter>
       <nav>
-        <Link to="/">Home</Link>
-        <Link to="video">Video</Link>
-        <Link to="gallerie">Bildergallerie</Link>
+        <h1 className="title">Portfolio</h1>
+        <div className="linkContainer">
+          <Link className="link" to="/"><p className="linkText">Home</p></Link>
+          <Link className="link" to="video"><p className="linkText">Video</p></Link>
+          <Link className="link" to="gallerie"><p className="linkText">Bildergallerie</p></Link>
+        </div>
       </nav>
       <Routes>
         <Route path="/" element={<Home />} />
