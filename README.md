@@ -4,7 +4,6 @@
 ***Siehe Abgabe Teams***
 
 ## Lernjournal Bildergallerie <br />
-***Ältere Journaleinträge folgen zu einem späterem Zeitpunkt***
 <br />
 <br />
 
