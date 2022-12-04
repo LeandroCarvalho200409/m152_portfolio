@@ -8,10 +8,19 @@ nav{
     background-color: green;
     display: flex;
     flex-direction: row;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .title{
     font-size: 48pt;
+    height: max-content;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 15px;
+    
 }
 
 .linkContainer{
@@ -25,20 +34,48 @@ nav{
     color: white;
     text-decoration: none;
     height: 100px;
-    width: 100px;
+    width: fit-content;
     text-align: center;
     justify-content: center;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.link:hover{
+    color: #b3b2b1;
 }
 
 .linkText{
     margin-bottom: auto;
     margin-top: auto;
     text-align: center;
+    font-weight: bold;
 }
 
-.carousel-caption {
-    background-color: black;
-    opacity: .6;
 
+.carousel-caption {
+    background-color: rgba(0, 0, 0, .4);
+
+}
+
+.carousel-caption p{
+    opacity: .9;
+}
+
+.pageHeader{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.slide{
+    box-shadow: 0 0 20px #707070;
+    margin-bottom: 30px;
+}
+
+.d-block{
+    border-radius: 10px;
 }
 

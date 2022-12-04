@@ -3,7 +3,7 @@ import Slideshow from "./Slideshow";
 function Bildegallerie() {
     return(
       <div>
-        <h1>Bildergallerie - Elektromobilität</h1>
+        <h1 className="pageHeader">Bildergallerie - Elektromobilität</h1>
         <Slideshow />
       </div>
     )
