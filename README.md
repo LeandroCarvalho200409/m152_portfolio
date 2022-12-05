@@ -4,8 +4,6 @@
 ***Siehe Abgabe Teams***
 
 ## Lernjournal Bildergallerie <br />
-<br />
-<br />
 
 **26/10/2022**
 | Eintrag | Inhalt |
