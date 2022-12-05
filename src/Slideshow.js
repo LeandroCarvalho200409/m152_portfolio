@@ -10,7 +10,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/peter-werkman-QNOWmmOi4es-unsplash.jpg"
+                        src="%PUBLIC_URL%/images/peter-werkman-QNOWmmOi4es-unsplash.jpg"
                         alt="First slide"
                         id='image1'
                         onClick={event => document.getElementById('image1').requestFullscreen({ navigationUI: "show" })}
@@ -53,7 +53,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg"
+                        src="%PUBLIC_URL%/images/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg"
                         alt="Third slide"
                         id='image4'
                         onClick={event => document.getElementById('image4').requestFullscreen()}
@@ -69,7 +69,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/alexander-schimmeck-cFPTHl6s5uY-unsplash(1).jpg"
+                        src="%PUBLIC_URL%/images/alexander-schimmeck-cFPTHl6s5uY-unsplash(1).jpg"
                         alt="Third slide"
                         id="image5"
                         onClick={event => document.getElementById('image5').requestFullscreen()}
@@ -85,7 +85,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/elizabeth-jamieson-pzu6AsXbg5c-unsplash.jpg"
+                        src="%PUBLIC_URL%/images/elizabeth-jamieson-pzu6AsXbg5c-unsplash.jpg"
                         alt="Third slide"
                         id="image6"
                         onClick={event => document.getElementById('image6').requestFullscreen()}
@@ -101,7 +101,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/william-william-NndKt2kF1L4-unsplash.jpg"
+                        src="%PUBLIC_URL%/images/william-william-NndKt2kF1L4-unsplash.jpg"
                         alt="Third slide"
                         id="image7"
                         onClick={event => document.getElementById('image7').requestFullscreen()}
@@ -133,7 +133,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/josh-berquist-pjxe3p4u5aI-unsplash.jpg"
+                        src="%PUBLIC_URL%/images/josh-berquist-pjxe3p4u5aI-unsplash.jpg"
                         alt="Third slide"
                         id="image9"
                         onClick={event => document.getElementById('image9').requestFullscreen()}
@@ -149,7 +149,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/guillaume-perigois-0NRkVddA2fw-unsplash.jpg"
+                        src="%PUBLIC_URL%/images/guillaume-perigois-0NRkVddA2fw-unsplash.jpg"
                         alt="Third slide"
                         id="image10"
                         onClick={event => document.getElementById('image10').requestFullscreen()}
@@ -165,7 +165,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/Captura de ecrã 2022-11-30 161542.png"
+                        src="%PUBLIC_URL%/images/Captura de ecrã 2022-11-30 161542.png"
                         alt="Third slide"
                         id="image11"
                         onClick={event => document.getElementById('image11').requestFullscreen()}
@@ -181,7 +181,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/heri-mulyana-MPzKDTtoWHU-unsplash.jpg"
+                        src="%PUBLIC_URL%/images/heri-mulyana-MPzKDTtoWHU-unsplash.jpg"
                         alt="Third slide"
                         id="image12"
                         onClick={event => document.getElementById('image12').requestFullscreen()}
@@ -197,7 +197,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/20221204_112557.jpg"
+                        src="%PUBLIC_URL%/images/20221204_112557.jpg"
                         alt="Third slide"
                         id="image13"
                         onClick={event => document.getElementById('image13').requestFullscreen()}
@@ -213,7 +213,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/"
+                        src="%PUBLIC_URL%/images/"
                         alt="Third slide"
                         id="image14"
                         onClick={event => document.getElementById('image14').requestFullscreen()}
@@ -229,7 +229,7 @@ function Slideshow() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="./images/20221204_112454.jpg"
+                        src="%PUBLIC_URL%/images/20221204_112454.jpg"
                         alt="Third slide"
                         id="image15"
                         onClick={event => document.getElementById('image15').requestFullscreen()}
