@@ -6,7 +6,7 @@ import './slideshow.css'
 function Slideshow() {
     return (
         <div className='slideshowContainer'>
-            <Carousel>
+            <Carousel interval={10000}>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
@@ -30,8 +30,8 @@ function Slideshow() {
                     />
 
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3>Fahrzeuge, welche fossile Kraftstoffe verbrennen sind eines der grössten Verschmutzer</h3>
+                        <p>Eines der grössten CO2-Verursacher sind die Fahrzeuge, welche durch fossile Kraftstoffe betrieben werden. Der grösste Teil der Fahrzeuge, welche wir heutzutage jedoch im Verkehr haben, werden durch solche Kraftstoffe betrieben und sind somit schädlich für die Umwelt.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -44,9 +44,9 @@ function Slideshow() {
                     />
 
                     <Carousel.Caption>
-                        <h3>Produktion der Elektrofahrzeuge</h3>
+                        <h3>Viele Menschen denken, dass die Elektrofahrzeuge dieses Problem lösen sollen.</h3>
                         <p>
-                            Die Problematik mit den Elektrofahrzeugen fängt schon beim Moment an, wo diese produziert werden und aus der Fabrik kommen. Schon ab diesem Punkt sind sie umweltschädlicher als ein gewöhnliches verbrenner Auto.
+                            Die meisten Personen denken, dass die Elektrofahrzeuge somit die ideale Lösung für unser klimatisches Problem sind. Dies ist auch klar, denn sie werden, vor allem von Klimaaktivisten und Politikern als umweltfreundlich und als nicht CO2-verursachend angeschaut. Ist dies jedoch die Wahrheit?
                         </p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -78,7 +78,7 @@ function Slideshow() {
                     <Carousel.Caption>
                         <h3>Extrahierung von Lithium für die Batterien</h3>
                         <p>
-                            Bei der Extrahierung von Lithium für die Produktion von Batterien für die Elektrofahrzeuge entstehen sehr viele schäden auf die Umwelt und für die Umgebung rundherum.
+                            Bei der Extrahierung von Lithium für die Produktion von Batterien für die Elektrofahrzeuge entstehen sehr viele schäden auf die Umwelt und für die Umgebung rundherum. Um die Umweltschäden einer durchschnittlichen Batterie eines Elektroautos zu amortisieren braucht man ca. 8.5 Jahren oder 127'000km.
                         </p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -126,7 +126,7 @@ function Slideshow() {
                     <Carousel.Caption>
                         <h3>Elektrische LKWs</h3>
                         <p>
-                            Obwohl viele Anbieter bereits elektrisch Betriebene LKWs anbieten, haben diese meistens nicht die gleiche Reichweite, wie ein normaler LKW
+                            Obwohl viele Anbieter bereits elektrisch Betriebene LKWs anbieten, haben diese meistens nicht die gleiche Reichweite, wie ein normaler LKW, welcher durch fossile Kraftstoffe betrieben werden. Somit sind diese für den internationalen Verkehr noch nicht sehr gut geeignet.
                         </p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -206,7 +206,7 @@ function Slideshow() {
                     <Carousel.Caption>
                         <h3>Längere Strecken</h3>
                         <p>
-                            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                        Nicht nur bei elektrisch Betriebenen LKWs besteht ein Problem mit der Reichweite, sondern auch mit den Autos. Mit einem elektrisch Betriebenen Auto würde z.B. eine Fahrt von mehreren Tausend Kilometer viel länger dauern, als mit einem gewöhnlichen Auto.
                         </p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -220,9 +220,9 @@ function Slideshow() {
                     />
 
                     <Carousel.Caption>
-                        <h3>Fifth slide label</h3>
+                        <h3>Autos gehen, wie alles andere irgendwann kaputt.</h3>
                         <p>
-                            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                            Wie alles andere gehen die Autos irgenwann mal kaputt. Bei Elektrofahrzeuge besteht aber die Problematik, dass sie im Vergleich mit anderen Fahrzeuge weniger langlebig sind und, dass dessen Reparaturen viel teurer sind, als bei einem gewöhnlichen Auto.
                         </p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -238,7 +238,7 @@ function Slideshow() {
                     <Carousel.Caption>
                         <h3>Akkus von Elektroautos gehen schnell kaputt und müssen daher ersetzt werden</h3>
                         <p>
-                            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                            Eine grosse Problematik stellen dabei die Akkus solcher Fahrzeuge dar, denn diese sind durchschnittlich nach 8-10 Jahren, oder 160'000km schon defekt und somit unbrauchbar. Sie sind jedoch auch gleichzeitig die Bestandteile dieser Fahrzeuge, welcher einen höheren CO2-Abdruck hinterlassen und somit ist dies problematisch.
                         </p>
                     </Carousel.Caption>
                 </Carousel.Item>
