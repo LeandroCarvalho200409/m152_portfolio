@@ -6,7 +6,7 @@ import './slideshow.css'
 function Slideshow() {
     return (
         <div className='slideshowContainer'>
-            <Carousel interval={10000}>
+            <Carousel interval={15000}>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
