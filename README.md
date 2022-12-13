@@ -78,14 +78,23 @@
 Theoretische Erkenntnisse
 - Verschiedene Arten von Gallerien
    - **Slideshow (Carousel)**
-      - Vorteile: User Kann angezeigtes Bild selbst wählen; Gut für "storytelling"; User kann Controlls gebrauchen; Bilder können als eine Art Show automatisch abgespielt werden; Text kann einfach hinzugefügt werden
+      - Vorteile: User Kann angezeigtes Bild selbst wählen; Gut für "storytelling"; User kann Controls gebrauchen; Bilder können als eine Art Show automatisch abgespielt werden; Text kann einfach hinzugefügt werden
       - Nachteile: Nur ein Bild kann gleichzeitig angezeigt werden; Automatisches Laufen kann nervig sein
-   - Gallerie
+   - Galerie
       - Vorteile: Alle Bilder können gleichzeitig angezeigt werden; Anordnung kann einfach ausgewählt werden; keine zusätzlichen Packages oder ähnliches nötig
       - Nachteile: Wenig Bedienung des Users
 - Bildformate (Vor- & Nachteile)
   - JPG (JPEG):
-      - Vorteile:
-      - Nachteile:
+      - Vorteile: Hohe Farbtiefe; Rastergraphik; von allen OSs unterstützt; gutes Verhältnis zwischen Kompression und Qualität.
+      - Nachteile: Verlustbehaftete Komprimierung; Nicht geeignet für Logos, ikonische Grafiken, ... wegen dem Kompressionsalgorithmus; unterstützt keine Animation
   - GIF:
-      - Vorteile: 
+      - Vorteile: Verlustfreie Komprimierung; geeignet für Logos, Banner, **Animationen**; Einsatz von Transparenz möglich; geringe Dateigrösse.
+      - Nachteile: tiefe Farbtiefe; nicht geeignet für Fotos oder Grafiken mit detaillierten Farbverläufen.
+  - PNG:
+    - Entwickelt um GIF zu ersetzen.
+      - Vorteile: Hybrid aus JPG und GIF; Farbtiefe von 8 Bit - 24 Bit; Gebrauch von Transparenz möglich; verlustfrei; geeignet für kleinere Bilder, Grafiken oder Formen; bessere Qualität als JPG
+      - Nachteile: verlustfreies Format nicht so stark und flexibel, wie bei JPG; 
+  
+  - SVG:
+      - Vorteile: zweidimensionale **Vektorgrafik**; verlustfreie Komprimierung und Skalierung; geringe Dateigrösse; gut für responsive Webseiten; gut für Logos; Möglichkeit der Animation mittels JavaScript.
+      - Nachteile: Nicht geeignet für detailreiche Bilder oder Fotos
