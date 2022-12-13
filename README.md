@@ -65,3 +65,27 @@
 | *Standortbestimmung und Selbsteinschätzung* | Ich sollte es bis nächstes Mal schaffen, dieses Projekt fertig zu gestalten. |
 | *Planung, nächste Schritte* | Noch mehr Bilder erstellen und einbinden. |
 
+**7/12/2022**
+| Eintrag | Inhalt |
+|-----------------|----------------|
+| *Verwendete Zeit* | 2 Lektionen |
+| *Behandelte Themen* | Problem mit Github Pages gelöst; Mehr Bilder erstellt und eingebunden; Mich mit der Theorie zu den Bildern auseinander gesetzt |
+| *Erreichte Kompetenzen und notwendiges Wissen* | Ich habe herausgefunden, dass mein einziges Problem mit dem Deployment auf Github Pages war, dass ich mein Projekt auf OneDrive hatte und dies wahrscheinlich das Problem war. Dieses Problem konnte ich mithilfe von Herrn Cavuoti lösen. Ebenfalls habe ich meine Kompetenzen im Erstellen vun Bildmaterialien verbessert. |
+| *Gemachte Erfahrungen* | Ich habe herausgefunden, dass der Speicherort der Projekte einen grossen Einfluss auf dessen Funktionalität haben kann und, dass solche einfache Fehler manchmal recht verzweifelnd sein können. |
+| *Standortbestimmung und Selbsteinschätzung* | Ich bin mit meinem Projekt fertig, da ich es fertig programmiert habe und es auch deployed habe. Das Projekt ist recht gut gelaufen, obwohl ich einige Hürden aufgefunden habe. |
+| *Planung, nächste Schritte* | **KEINE** |
+
+Theoretische Erkenntnisse
+- Verschiedene Arten von Gallerien
+   - **Slideshow (Carousel)**
+      - Vorteile: User Kann angezeigtes Bild selbst wählen; Gut für "storytelling"; User kann Controlls gebrauchen; Bilder können als eine Art Show automatisch abgespielt werden; Text kann einfach hinzugefügt werden
+      - Nachteile: Nur ein Bild kann gleichzeitig angezeigt werden; Automatisches Laufen kann nervig sein
+   - Gallerie
+      - Vorteile: Alle Bilder können gleichzeitig angezeigt werden; Anordnung kann einfach ausgewählt werden; keine zusätzlichen Packages oder ähnliches nötig
+      - Nachteile: Wenig Bedienung des Users
+- Bildformate (Vor- & Nachteile)
+  - JPG (JPEG):
+      - Vorteile:
+      - Nachteile:
+  - GIF:
+      - Vorteile: 
