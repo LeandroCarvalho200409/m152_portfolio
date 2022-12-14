@@ -5,6 +5,7 @@
 
 ## Lernjournal Bildergallerie <br />
 
+![](Captura%20de%20ecrã%202022-12-14%20161317.png)
 **26/10/2022**
 | Eintrag | Inhalt |
 |-----------------|----------------|
