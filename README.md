@@ -1,6 +1,6 @@
 # Portfolio des Moduls 152
 
-Link zum Portfolio : https://leandrocarvalho200409.github.io/gallerie
+Link zum Portfolio : https://leandrocarvalho200409.github.io/m152_portfolio/
 
 ## Lernjournal Videoclip <br />
 ***Siehe Abgabe Teams***
