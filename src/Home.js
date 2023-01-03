@@ -3,8 +3,9 @@ import { Link } from 'react-router-dom';
 
 function Home() {
   return(
-    <div>
-        <h1 className="pageHeader">Portfolio Modul 152</h1>
+    <div className="home">
+      <h1 className="pageHeader">Portfolio Modul 152 (inkl. Animation)</h1>
+      <img className="animation" src={ process.env.PUBLIC_URL + "/images/animation.gif" } alt="animation" />
     </div>
   );
 }
