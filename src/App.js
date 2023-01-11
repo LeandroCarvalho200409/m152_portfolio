@@ -16,13 +16,13 @@ function App() {
           <h1 className="title"><p>Portfolio</p></h1>
         </div>
         <div className="linkContainer">
-          <NavLink className="link" to="/"> <p className="linkText">Home</p> </NavLink>
+          <NavLink className="link" to="m152_portfolio"> <p className="linkText">Home</p> </NavLink>
           <NavLink className="link" to="video"><p className="linkText">Video</p></NavLink>
           <NavLink className="link" to="gallerie"><p className="linkText">Bildergallerie</p></NavLink>
         </div>
       </nav>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/m152_portfolio" element={<Home />} />
         <Route path="/video" element={<Video />} />
         <Route path="/gallerie" element={<Bildergallerie />} />
       </Routes>

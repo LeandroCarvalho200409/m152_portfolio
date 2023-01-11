@@ -131,3 +131,12 @@ nav .active p{
     max-width: 700px;
 }
 
+.videoContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+video {
+    margin: 0 auto;
+}
+
