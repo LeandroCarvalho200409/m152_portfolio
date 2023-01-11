@@ -101,3 +101,42 @@ Theoretische Erkenntnisse
   - SVG:
       - Vorteile: zweidimensionale **Vektorgrafik**; verlustfreie Komprimierung und Skalierung; geringe Dateigrösse; gut für responsive Webseiten; gut für Logos; Möglichkeit der Animation mittels JavaScript.
       - Nachteile: Nicht geeignet für detailreiche Bilder oder Fotos
+      
+## Lernjournal Animation
+
+### Planung
+
+### Storyboard
+![](grafik.png)
+
+### Vorgehen
+
+**14/12/2022**
+| Eintrag | Inhalt |
+|-----------------|----------------|
+| *Verwendete Zeit* | 2 Lektionen |
+| *Behandelte Themen* | Planung der Animation; Erstellen eines Storyboards |
+| *Erreichte Kompetenzen und notwendiges Wissen* | Ich habe mir anhand von anderen Animationen Inspiration für meine eigene geholt, welche irgendwie etwas mit dem Thema der Mobilität zu tun haben soll. Ebenfalls habe ich einen kleinen Storyboard für meine Animation erstellt. |
+| *Gemachte Erfahrungen* | Ich habe gesehen, was für verschiedene Arten von Animationen existieren und welche für mich in Frage kämen. |
+| *Standortbestimmung und Selbsteinschätzung* | Ich konnte einen grossen Teil der Planung bereits gut machen und habe schon zwei verschiedene Animationen, welche für mich in Frage kommen. |
+| *Planung, nächste Schritte* | Ich habe einen grossen Teil der Planung bereits machen können und nächstes Mal muss ich mich nur noch für eine Art Animation entscheiden und diese erstellen. |
+
+**21/12/2022**
+| Eintrag | Inhalt |
+|-----------------|----------------|
+| *Verwendete Zeit* | 2 Lektionen |
+| *Behandelte Themen* | Entscheidung für eine Art Animation; Angefangen mit der Umsetzung; Gelernt, wie man Adobe Illustrator und Animate gebraucht |
+| *Erreichte Kompetenzen und notwendiges Wissen* | Ich habe angefangen zu lernen, wie man Adobe Illustrator gebraucht und habe eine erste Figur erstellt. Das notwendige Wissen dafür habe ich mir von Internet beschafft. |
+| *Gemachte Erfahrungen* | Ich habe die Erfahrung gemacht, dass es eigentlich nicht so schwierig ist eine Animation zu erstellen, wenn man die richtige Software dafür gebraucht. |
+| *Standortbestimmung und Selbsteinschätzung* | Ich bin mit meinem Projekt fertig, da ich es fertig programmiert habe und es auch deployed habe. Das Projekt ist recht gut gelaufen, obwohl ich einige Hürden aufgefunden habe. |
+| *Planung, nächste Schritte* | **KEINE** |
+
+**11/1/2023**
+| Eintrag | Inhalt |
+|-----------------|----------------|
+| *Verwendete Zeit* | 2 Lektionen |
+| *Behandelte Themen* | Problem mit Github Pages gelöst; Mehr Bilder erstellt und eingebunden; Mich mit der Theorie zu den Bildern auseinander gesetzt |
+| *Erreichte Kompetenzen und notwendiges Wissen* | Ich habe herausgefunden, dass mein einziges Problem mit dem Deployment auf Github Pages war, dass ich mein Projekt auf OneDrive hatte und dies wahrscheinlich das Problem war. Dieses Problem konnte ich mithilfe von Herrn Cavuoti lösen. Ebenfalls habe ich meine Kompetenzen im Erstellen vun Bildmaterialien verbessert. |
+| *Gemachte Erfahrungen* | Ich habe herausgefunden, dass der Speicherort der Projekte einen grossen Einfluss auf dessen Funktionalität haben kann und, dass solche einfache Fehler manchmal recht verzweifelnd sein können. |
+| *Standortbestimmung und Selbsteinschätzung* | Ich bin mit meinem Projekt fertig, da ich es fertig programmiert habe und es auch deployed habe. Das Projekt ist recht gut gelaufen, obwohl ich einige Hürden aufgefunden habe. |
+| *Planung, nächste Schritte* | **KEINE** |
