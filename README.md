@@ -128,15 +128,15 @@ Theoretische Erkenntnisse
 | *Behandelte Themen* | Entscheidung für eine Art Animation; Angefangen mit der Umsetzung; Gelernt, wie man Adobe Illustrator und Animate gebraucht |
 | *Erreichte Kompetenzen und notwendiges Wissen* | Ich habe angefangen zu lernen, wie man Adobe Illustrator gebraucht und habe eine erste Figur erstellt. Das notwendige Wissen dafür habe ich mir von Internet beschafft. |
 | *Gemachte Erfahrungen* | Ich habe die Erfahrung gemacht, dass es eigentlich nicht so schwierig ist eine Animation zu erstellen, wenn man die richtige Software dafür gebraucht. |
-| *Standortbestimmung und Selbsteinschätzung* | Ich bin mit meinem Projekt fertig, da ich es fertig programmiert habe und es auch deployed habe. Das Projekt ist recht gut gelaufen, obwohl ich einige Hürden aufgefunden habe. |
-| *Planung, nächste Schritte* | **KEINE** |
+| *Standortbestimmung und Selbsteinschätzung* | Ich bin schon recht weit mit der Animation und ich glaube, dass ich auf einem guten Weg bin und, dass ich über die Ferien sicher mit dem Projekt fertig werde. |
+| *Planung, nächste Schritte* | Ich muss jetzt über den Ferien versuchen die Animation fertig zu machen und inkl. dem Video ins Portfolio einbinden. |
 
 **11/1/2023**
 | Eintrag | Inhalt |
 |-----------------|----------------|
-| *Verwendete Zeit* | 2 Lektionen |
-| *Behandelte Themen* | Problem mit Github Pages gelöst; Mehr Bilder erstellt und eingebunden; Mich mit der Theorie zu den Bildern auseinander gesetzt |
-| *Erreichte Kompetenzen und notwendiges Wissen* | Ich habe herausgefunden, dass mein einziges Problem mit dem Deployment auf Github Pages war, dass ich mein Projekt auf OneDrive hatte und dies wahrscheinlich das Problem war. Dieses Problem konnte ich mithilfe von Herrn Cavuoti lösen. Ebenfalls habe ich meine Kompetenzen im Erstellen vun Bildmaterialien verbessert. |
-| *Gemachte Erfahrungen* | Ich habe herausgefunden, dass der Speicherort der Projekte einen grossen Einfluss auf dessen Funktionalität haben kann und, dass solche einfache Fehler manchmal recht verzweifelnd sein können. |
-| *Standortbestimmung und Selbsteinschätzung* | Ich bin mit meinem Projekt fertig, da ich es fertig programmiert habe und es auch deployed habe. Das Projekt ist recht gut gelaufen, obwohl ich einige Hürden aufgefunden habe. |
+| *Verwendete Zeit* | 2 Lektionen + Zeit über die Ferien |
+| *Behandelte Themen* | Animation fertig gemacht; Animation und Video in die Webseite eingebunden |
+| *Erreichte Kompetenzen und notwendiges Wissen* | Ich habe gelernt wie man mit Adobe Animate eine Animation erstellt und wie man diese und Videos in eine Webseite einbinden kann. |
+| *Gemachte Erfahrungen* | Ich habe herausgefunden, dass dieses Projekt recht einfach lösbar war und auf welche Arten man eine Animation einbinden kann. |
+| *Standortbestimmung und Selbsteinschätzung* | Ich bin mit meinem Projekt fertig, da ich es fertig umgesetzt habe und auch alles schön eingebunden und deployed habe. |
 | *Planung, nächste Schritte* | **KEINE** |
